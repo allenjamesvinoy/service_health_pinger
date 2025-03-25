@@ -1,7 +1,7 @@
 import requests
 import time
 
-url = 'https://test-api-dis-docker-a88db0a1cb01.herokuapp.com/health'  # Replace with your app's URL
+url = ''  # Replace with your app's URL
 
 while True:
     try:
